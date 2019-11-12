@@ -8,7 +8,7 @@ Player::Player()
 
 void Player::addCard(Card c)
 {
-
+	//cout << "addCard\n";
 }
 
 void Player::bookCards(Card c1, Card c2)
